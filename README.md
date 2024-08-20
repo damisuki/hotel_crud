@@ -39,3 +39,10 @@ Públicado en el topic:
    - ![JAR](https://img.shields.io/badge/mysql--connector--java--8.0.29-JAR-blue)
    
 
+![Vista previa de la búsqueda de usuarios.](https://github.com/damisuki/hotel_crud/blob/15f3e44607a1e15ecec6fd0c01b7b1445990d63e/src/mx/com/alurahotel/imagenes/busquedaUsuarios.PNG)
+
+![Vista previa de la ventana de reservas.](https://github.com/damisuki/hotel_crud/blob/15f3e44607a1e15ecec6fd0c01b7b1445990d63e/src/mx/com/alurahotel/imagenes/ventanaReservas.PNG)
+
+![Vista previa de la ventana de usuario.](https://github.com/damisuki/hotel_crud/blob/15f3e44607a1e15ecec6fd0c01b7b1445990d63e/src/mx/com/alurahotel/imagenes/ventanaUsuario.PNG)
+
+
